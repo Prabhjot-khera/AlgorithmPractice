@@ -1,9 +1,5 @@
-#Pg 270 example 12
-#ICS4U0-A
-#Prabhjot Khera
-#662846
-#Mr Veera
-#28 september 2021
+#
+
 
 from random import *
 
