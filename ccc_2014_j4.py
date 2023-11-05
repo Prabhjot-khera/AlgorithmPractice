@@ -1,9 +1,5 @@
 #Party Invite ccc 2014 J4
-#ICS4U0-A
-#Prabhjot Khera
-#662846
-#Mr Veera
-#17 september 2021
+
 
 
 #ALGORITHM
