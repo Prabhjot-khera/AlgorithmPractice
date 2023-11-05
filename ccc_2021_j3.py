@@ -1,9 +1,5 @@
 #Secret Instruction ccc 2021 J3
-#ICS4U0-A
-#Prabhjot Khera
-#662846
-#Mr Veera
-#17 september 2021
+
 
 #ALGORITHM
 #create a variable to hold the current direction out of the loop so if 00 occurs you have the previous direction stored
