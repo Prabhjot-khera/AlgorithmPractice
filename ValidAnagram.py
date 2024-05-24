@@ -1,27 +1,25 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        
+
         if len(s)!=len(t):
             return False 
-
-        counts = {}
+        
+        counts ={}
         countt = {}
 
         for i in range(len(s)):
             if s[i] not in counts:
-                counts[s[i]]=0
+                counts[s[i]]=1
             else:
                 counts[s[i]]+=1
-        print(counts)
-        for i in range(len(t)):
             if t[i] not in countt:
-                countt[t[i]]=0
+                countt[t[i]]=1
             else:
                 countt[t[i]]+=1
-           
-                
-
+        
         if counts==countt:
-            return True 
+            return True
         
         return False 
+        
+        
